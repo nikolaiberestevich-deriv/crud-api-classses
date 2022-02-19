@@ -1,0 +1,21 @@
+{
+  "name": "crud-api-classses",
+  "version": "1.0.0",
+  "description": "crud api with classes ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "class",
+    "api"
+  ],
+  "author": "Nikolai Berestevich",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
